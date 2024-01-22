@@ -38,12 +38,11 @@ Current Maintainers
 -------------------
 
 - Wes Jones (https://github.com/earthday47)
-- gifad (https://github.com/gifad)
 
 Credits
 -------
 
-- Ported to Backdrop CMS by gifad (https://github.com/gifad)
+- Ported to Backdrop CMS by [gifad](https://drupal.org/u/gifad)
 - Originally written for Drupal by Patrick Hayes (phayes)
 - geoPHP library written and maintained by Patrick Hayes (phayes)
 - The following organizations sponsored development of geoPHP: HighWire Press, 
